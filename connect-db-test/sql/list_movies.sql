@@ -1,0 +1,1 @@
+SELECT id, title, rating FROM movies_db.movies;
